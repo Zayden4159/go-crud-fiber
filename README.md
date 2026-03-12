@@ -1,5 +1,7 @@
 # CRUD WITH FIBER พื้นฐาน
 
+ตัวอย่าง REST API พื้นฐานด้วย Go + Fiber ครอบคลุม CRUD และการอัพโหลดไฟล์
+
 ## Features
 - ดึงข้อมูล User ทั้งหมด
 - ดึงข้อมูล User รายคน
